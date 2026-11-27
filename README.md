@@ -7,14 +7,14 @@ A curated directory of engineering-intelligence, DORA-metrics and developer-expe
 - [AI Coding Impact (1)](#ai-coding-impact)
 - [Developer Experience (DevEx) Surveys (1)](#developer-experience-devex-surveys)
 - [DORA Metrics (3)](#dora-metrics)
-- [Engineering Intelligence Platforms (11)](#engineering-intelligence-platforms)
+- [Engineering Intelligence Platforms (13)](#engineering-intelligence-platforms)
 - [Git Analytics (1)](#git-analytics)
 - [Open-Source Metrics (4)](#open-source-metrics)
 
 
 ## AI Coding Impact
 
-- [Stepsize](https://stepsize.com/) - AI-powered engineering metrics platform that tracks sprint progress, tech debt, and delivery insights by integrating with Jira, Linear, and GitHub. ([Read more](/details/stepsize.md)) `Freemium` `Paid` `AI-Powered` `API` `Engineering Intelligence`
+- [Stepsize](https://stepsize.com/) - AI-powered engineering metrics platform that tracks sprint progress, tech debt, and delivery insights by integrating with Jira, Linear, and GitHub. ([Read more](/details/stepsize.md)) `Freemium` `Paid` `AI Powered` `API` `Engineering Intelligence`
 
 ## Developer Experience (DevEx) Surveys
 
@@ -28,12 +28,14 @@ A curated directory of engineering-intelligence, DORA-metrics and developer-expe
 
 ## Engineering Intelligence Platforms
 
-- [Allstacks](https://allstacks.com/) - Engineering intelligence platform that uses AI to predict delivery risk, track DORA metrics, and surface insights from Jira, GitHub, and other SDLC tools. ([Read more](/details/allstacks.md)) `Paid` `Enterprise` `API` `AI-Powered` `Engineering Intelligence`
+- [Allstacks](https://allstacks.com/) - Engineering intelligence platform that uses AI to predict delivery risk, track DORA metrics, and surface insights from Jira, GitHub, and other SDLC tools. ([Read more](/details/allstacks.md)) `Paid` `Enterprise` `API` `AI Powered` `Engineering Intelligence`
 - [Code Climate](https://codeclimate.com/) - Engineering efficiency platform (Velocity) that measures DORA metrics, code quality, and team velocity to help engineering leaders improve delivery performance. ([Read more](/details/code-climate.md)) `Paid` `Enterprise` `API` `DORA Metrics` `Engineering Intelligence`
 - [DevDynamics](https://devdynamics.ai/) - Engineering intelligence platform that provides DORA metrics, sprint insights, and engineering health dashboards by integrating with Git, CI/CD, and project management tools. ([Read more](/details/devdynamics.md)) `Freemium` `Paid` `API` `DORA Metrics` `Engineering Intelligence`
-- [Faros AI](https://faros.ai/) - Engineering intelligence platform that unifies data from the software delivery lifecycle to measure DORA metrics, team health, and operational efficiency. ([Read more](/details/faros-ai.md)) `Paid` `Enterprise` `API` `AI-Powered` `Engineering Intelligence`
+- [DX](https://getdx.com) - DX is an engineering intelligence platform designed by researchers that gives R&D leaders a common picture of the delivery lifecycle across engineering, product, and design, with insights on where to invest and the impact AI is having. The platform offers AI measurement to track AI-generated code by commit, PR, team, agent, and repo; AI enablement to build context layers for AI agents; developer experience visibility to identify friction points; and engineering productivity metrics to find bottlenecks and align engineering with business goals. DX AI provides an AI Copilot that continuously delivers insights and flags risks automatically. ([Read more](/details/dx-engineering-intelligence.md)) `AI Powered` `Engineering Intelligence` `Analytics`
+- [Faros AI](https://faros.ai/) - Engineering intelligence platform that unifies data from the software delivery lifecycle to measure DORA metrics, team health, and operational efficiency. ([Read more](/details/faros-ai.md)) `Paid` `Enterprise` `API` `AI Powered` `Engineering Intelligence`
 - [GitLab](https://gitlab.com/) - DevSecOps platform with Value Stream Analytics and DORA metrics for tracking software delivery performance across the DevOps lifecycle. ([Read more](/details/gitlab.md)) `Freemium` `Paid` `Self-Hosted` `API` `DORA Metrics` `DevSecOps`
 - [Hatica](https://hatica.io/) - Engineering productivity platform that combines DORA metrics, developer activity, and collaboration data to help teams identify bottlenecks and improve delivery. ([Read more](/details/hatica.md)) `Freemium` `Paid` `API` `DORA Metrics` `Engineering Intelligence`
+- [Haystack](https://usehaystack.io) - Haystack is an engineering intelligence platform that helps teams deliver software faster, better, and more predictably by automating best practices and creating reports through integrations with Git and JIRA. It provides operational metrics, team health reports, risk alerts, effective standups, flexible metrics, epic tracking, and AI-generated release notes across the entire product engineering lifecycle. ([Read more](/details/haystack.md)) `Freemium` `API` `Git Integration` `Jira Integration`
 - [Jellyfish](https://jellyfish.co/) - Engineering management platform that provides visibility into engineering capacity, delivery, and alignment with business goals. ([Read more](/details/jellyfish.md)) `Paid` `Enterprise` `API` `Engineering Intelligence`
 - [LinearB](https://linearb.io/) - Engineering intelligence platform that tracks DORA metrics, workflow bottlenecks, and project delivery for software teams. ([Read more](/details/linearb.md)) `Freemium` `Paid` `API` `DORA Metrics` `Engineering Intelligence`
 - [Swarmia](https://swarmia.com/) - Engineering effectiveness platform that helps teams improve flow, reduce bottlenecks, and track DORA metrics through integrations with GitHub, GitLab, Jira, and Azure DevOps. ([Read more](/details/swarmia.md)) `Freemium` `Paid` `API` `DORA Metrics` `Engineering Intelligence`
